@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Alif Noor Rahman 👋
 
-<!--
-**Aliz-brog/Aliz-brog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+* 🎓 Student of Software Engineering / Computer Science
+* 💻 Passionate about Web Development and cyber security
+* 🚀 Always eager to learn new technologies and build cool projects
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Languages:** Java, Python, HTML/CSS, JavaScript
+* **Tools & Frameworks:** Jupyter Notebook, CodeIgniter, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+📫 **Connect with me:**
+* **LinkedIn:** www.linkedin.com/in/alif-rahman-8351aa39b*
